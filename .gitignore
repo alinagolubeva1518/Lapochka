@@ -9,3 +9,10 @@ dist/
 
 # system
 .DS_Store
+
+# PDF, изображения и архивы — хранить локально, не в git
+*.pdf
+*.zip
+*.png
+*.jpg
+*.jpeg
